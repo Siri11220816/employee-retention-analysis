@@ -1,2 +1,21 @@
-# employee-retention-analysis
-Machine Learning based employee retention analysis system that predicts employee attrition using Python, Pandas, Scikit-learn, data visualization and classification algorithms to help organizations improve workforce retention and decision-making.
+# Employee Retention Analysis Using Machine Learning
+
+## Overview
+This project predicts employee attrition using machine learning techniques and data analysis. The goal is to identify factors affecting employee retention and help organizations improve workforce management.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+## Features
+- Data preprocessing
+- Employee attrition prediction
+- Data visualization
+- Classification models
+- Insight generation
+
+## Author
+Sirisha Madineni
